@@ -3,7 +3,7 @@ package com.company;
  * memory allocation scheme, where memory is allocated to task on a basis of first come
  * first serve. As long as it fits into the computer memory
  * @author Felix Ogbonnaya
- * @since 2020-03-03
+ * @since 2020-03-02
  */
 public class Main {
     public static void FirstFit(int[] blockSize, int[] jobSize, int m, int n) {
